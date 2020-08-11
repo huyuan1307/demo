@@ -26,6 +26,15 @@
     }
   ],
   "profile": {
-    "name": "typicode"
-  }
+    "code": 200,
+    "message": "",
+    "result": {
+        "variables": {
+            "Engine-RequestToken": "aaa",
+            "Engine-RequestParams": "aaa",
+            "Engine-RequestMethods": "GET",
+            "Engine-RequestUrl": "http://jsonplaceholder.typicode.com/users"
+        }
+    }
+}
 }
